@@ -12,7 +12,7 @@
     "babel-preset-env": "^1.6.1",
     "babel-register": "^6.26.0",
     "cross-env": "1.0.8",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-clean-css": "^3.10.0",
     "gulp-cssnano": "^2.1.2",
     "gulp-less": "^3.3.2",
